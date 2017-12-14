@@ -5,4 +5,5 @@ httpd curl 通信処理
 ステータスコー
 書き起こし
 tar
-about marge
+marge
+unlink
