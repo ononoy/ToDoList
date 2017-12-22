@@ -15,3 +15,4 @@ pdg
 dbg
 comment
 RFC
+かんすうきようつうか
