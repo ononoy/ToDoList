@@ -16,3 +16,4 @@ dbg
 comment
 RFC
 かんすうきようつうか
+マージ
