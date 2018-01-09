@@ -27,3 +27,4 @@ req2
 tmp/req2
 prog
 fIlepath、time
+結合テスト
