@@ -1,4 +1,3 @@
 cdntOS
 AWS
-SSH
 RDS
